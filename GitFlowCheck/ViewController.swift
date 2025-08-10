@@ -14,7 +14,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("")
         print("test print")
+<<<<<<< HEAD
         print("test main branch address")
+=======
+        print("test main branch print")
+>>>>>>> 3d1f8bf8d8a66b883e945f2c879f0e7b7de127cb
     }
 
 
