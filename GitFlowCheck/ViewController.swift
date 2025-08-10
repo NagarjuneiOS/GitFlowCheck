@@ -24,6 +24,10 @@ class ViewController: UIViewController {
 extension ViewController{
     func addAdress(){
         print("madurai palangantham")
+
         print("sub branch added test")
+
+        print("main branch added test")
+
     }
 }
