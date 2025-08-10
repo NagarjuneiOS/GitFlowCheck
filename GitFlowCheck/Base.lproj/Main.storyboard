@@ -25,11 +25,10 @@
                                 <buttonConfiguration key="configuration" style="plain" title="Add adress"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p94-L2-sC4">
-                                <rect key="frame" x="166.33333333333334" y="408.66666666666669" width="60.666666666666657" height="35"/>
+                                <rect key="frame" x="166.33" y="408.67" width="60.67" height="35"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Main"/>
                             </button>
-<<<<<<< HEAD
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sAI-UY-Uif">
                                 <rect key="frame" x="10" y="69" width="373" height="50"/>
                                 <constraints>
@@ -37,34 +36,17 @@
                                 </constraints>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="address top"/>
-=======
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6YR-dM-dVN">
-                                <rect key="frame" x="10" y="69" width="373" height="50"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="iuA-Mc-J7i"/>
-                                </constraints>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Top"/>
->>>>>>> 67aa14099c3eb667c28e481f55a18c1d6facddb6
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="6YR-dM-dVN" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="10" id="7KV-np-6Yp"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="VeM-kv-Mep" secondAttribute="trailing" constant="10" id="9dA-MX-kvU"/>
-<<<<<<< HEAD
                             <constraint firstItem="sAI-UY-Uif" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="10" id="AhO-VK-fRl"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="sAI-UY-Uif" secondAttribute="trailing" constant="10" id="WEc-va-SDp"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="VeM-kv-Mep" secondAttribute="trailing" constant="10" id="9dA-MX-kvU"/>
                             <constraint firstItem="p94-L2-sC4" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="YWL-2z-SxT"/>
                             <constraint firstItem="p94-L2-sC4" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="mwo-cG-y8y"/>
                             <constraint firstItem="sAI-UY-Uif" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="t9K-kU-6IA"/>
-=======
-                            <constraint firstItem="6YR-dM-dVN" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="AH4-I7-xZb"/>
-                            <constraint firstItem="p94-L2-sC4" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="YWL-2z-SxT"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="6YR-dM-dVN" secondAttribute="trailing" constant="10" id="hVJ-9I-s15"/>
-                            <constraint firstItem="p94-L2-sC4" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="mwo-cG-y8y"/>
->>>>>>> 67aa14099c3eb667c28e481f55a18c1d6facddb6
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="sAI-UY-Uif" secondAttribute="trailing" constant="10" id="WEc-va-SDp"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="VeM-kv-Mep" secondAttribute="bottom" constant="10" id="uAX-L1-MGy"/>
                             <constraint firstItem="VeM-kv-Mep" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="vKm-VM-wfh"/>
                         </constraints>
